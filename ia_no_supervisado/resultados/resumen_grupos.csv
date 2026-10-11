@@ -1,0 +1,4 @@
+﻿grupo,cantidad_conexiones,tiempo_promedio_min,costo_promedio_simplificado,medios_mas_frecuentes
+0,1,8.0,600.0,Metroplús
+1,25,3.08,764.0,"Metro, Tranvía, Metrocable"
+2,3,2.0,0.0,Transbordo

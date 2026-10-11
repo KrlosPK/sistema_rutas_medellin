@@ -1,0 +1,30 @@
+﻿id_conexion,origen,destino,medio,tiempo_min,costo_simplificado,grupo
+C001,Niquía,Bello,Metro,3,800,1
+C002,Bello,Madera,Metro,3,800,1
+C003,Madera,Acevedo,Metro,4,800,1
+C004,Acevedo,Tricentenario,Metro,3,800,1
+C005,Tricentenario,Caribe,Metro,3,800,1
+C006,Caribe,Universidad,Metro,3,800,1
+C007,Universidad,Hospital,Metro,3,800,1
+C008,Hospital,Prado,Metro,3,800,1
+C009,Prado,Parque Berrío,Metro,3,800,1
+C010,Parque Berrío,San Antonio,Metro,3,800,1
+C011,San Antonio,San José,Tranvía,3,800,1
+C012,San José,Pabellón del Agua,Tranvía,3,800,1
+C013,Pabellón del Agua,Bicentenario,Tranvía,3,800,1
+C014,Bicentenario,Buenos Aires,Tranvía,3,800,1
+C015,Buenos Aires,Miraflores,Tranvía,3,800,1
+C016,Miraflores,Loyola,Tranvía,3,800,1
+C017,Loyola,Alejandro Echavarría,Tranvía,3,800,1
+C018,Alejandro Echavarría,Oriente,Tranvía,4,800,1
+C019,Acevedo,Andalucía,Metrocable,3,700,1
+C020,Andalucía,Popular,Metrocable,3,700,1
+C021,Popular,Santo Domingo,Metrocable,4,700,1
+C022,Oriente,Las Torres,Metrocable,3,700,1
+C023,Las Torres,Villa Sierra,Metrocable,2,700,1
+C024,Hospital 1,Ruta N – U. de A,Metroplús,3,600,1
+C025,Ruta N – U. de A,Chagualo,Metroplús,3,600,1
+C026,Chagualo,U. de M. 1,Metroplús,8,600,0
+C027,Hospital,Hospital 1,Transbordo,2,0,2
+C028,Acevedo,Andalucía,Transbordo,2,0,2
+C029,Oriente,Las Torres,Transbordo,2,0,2
